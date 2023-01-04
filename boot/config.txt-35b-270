@@ -72,4 +72,4 @@ hdmi_group=2
 hdmi_drive=2
 hdmi_mode=87
 hdmi_cvt 480 320 60 6 0 0 0
-display_rotate=3
+display_rotate=1
