@@ -66,7 +66,7 @@ max_framebuffers=2
 
 enable_uart=1
 
-dtoverlay=osoyoo35b:speed=24000000
+dtoverlay=osoyoo35b:speed=20000000
 hdmi_force_hotplug=1
 hdmi_group=2
 hdmi_drive=2
